@@ -1,0 +1,19 @@
+{
+  "name": "sneakers",
+  "main": "./lib/sneakers",
+  "version": "0.0.0",
+  "description": "Sneakers movie effect on your code",
+  "keywords": [
+    "sneakers", "movie", "effect", "encrypt"
+  ],
+  "activationCommands": {
+    "atom-workspace": "sneakers:run"
+  },
+  "repository": "https://github.com/lexcast/sneakers",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

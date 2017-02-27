@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Sneakers",
+          "submenu": [
+            {
+              "label": "Run",
+              "command": "sneakers:run"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
