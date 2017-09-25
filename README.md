@@ -11,8 +11,9 @@ Based on:
 - https://github.com/davemandy/sneakers-effect for the javascript version.
 
 ## Install
-With apm:
+From Atom go to Settings ➔ Install or with the command `Settings View:Install Packages and Themes` and then search for `sneakers`
+
+Or with apm:
 ```bash
 apm install sneakers
 ```
-Or Settings ➔ Packages ➔ Search for `sneakers`
